@@ -1,0 +1,15 @@
+.answer {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.answer__text--green {
+    color: green;
+}
+
+.answer__text--red {
+    color: red;
+}
+
