@@ -1,0 +1,13 @@
+.some-text {
+    margin-top: 200px;
+}
+
+.some-text__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.some-text__button {
+    margin-top: 20px;
+}

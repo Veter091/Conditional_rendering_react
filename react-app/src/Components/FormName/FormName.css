@@ -1,0 +1,30 @@
+.form-name {
+    margin: 0 auto;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-name__container {
+    width: 300px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.form-name__label {
+    margin: 0 15px;
+}
+
+.form-name__button {
+    margin-top: 50px;
+}
+
+.form-name__greeting {
+    margin-top: 30px;
+}

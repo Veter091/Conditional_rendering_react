@@ -1,0 +1,23 @@
+.movement-mouse {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.movement-mouse__container {
+    width: 800px;
+    height: 600px;
+    border: 3px solid green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 25px;
+}
+
+
+
+.movement-mouse__coord {
+    text-align: center;
+
+}

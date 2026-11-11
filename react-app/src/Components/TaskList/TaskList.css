@@ -1,0 +1,25 @@
+.task-list {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.task-list__container {
+    width: 300px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid brown;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.task-list__li {
+    margin: 10px;
+}
+
+.active {
+    text-decoration: line-through;
+}
