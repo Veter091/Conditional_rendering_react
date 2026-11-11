@@ -1,0 +1,40 @@
+.form-post {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.form-post__container {
+    width: 350px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    border: 2px solid burlywood;
+    padding: 30px;
+}
+
+.form-post__label {
+    display: flex;
+}
+
+.form-post__textarea {
+    margin-top: 10px;
+}
+
+.form-post__footer {
+    margin-top: 20px;
+}
+
+.form-post__button:hover {
+    background-color: gray;
+}
+
+.form-post__post {
+    margin-top: 10px;
+}
+
+span {
+    color: red;
+}

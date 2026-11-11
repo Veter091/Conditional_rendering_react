@@ -1,0 +1,21 @@
+.notes {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.notes__container {
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 10px solid burlywood;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.notes__button {
+    margin-top: 20px;
+}
